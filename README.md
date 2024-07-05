@@ -5,10 +5,15 @@ Anaya is a Content Engine that specializes in analyzing and comparing multiple P
 ### [📄[Docs](https://swax10.github.io/anaya/docs/introduction).]
 
 ## Contents
+- [Architecture](#architecture)
 - [TechStack](#techstack)
 - [Install](#install)
 - [Demo](#demo)
 - [Output](#output)
+
+# Architecture
+![Anaya RAG Architecture](https://github.com/swax10/anaya/assets/110764543/d19b61bb-2ece-446c-95ec-3f42d9644671) </br>
+Source: https://gradientflow.com/techniques-challenges-and-future-of-augmented-language-models/
 
 # TechStack
 💻 
