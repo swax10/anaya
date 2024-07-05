@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Anaya🔥📑',
-  tagline: 'Anaya is cool',
+  tagline: 'Anaya is hot!🔥🥵',
   favicon: 'img/favicon.png',
 
   // Set the production url of your site here
@@ -74,7 +74,7 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/swax10/anaya',
             label: 'GitHub',
             position: 'right',
           },

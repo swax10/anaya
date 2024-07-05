@@ -21,3 +21,29 @@
   align-items: center;
   justify-content: center;
 }
+
+.gap {
+  margin-top: 20px; /* Adjust the value as needed */
+}
+
+.projectDescription {
+  margin-top: 20px; /* Adds space above the description */
+  font-size: 1.25rem; /* Adjusts the font size */
+  color: #000000; /* Changes the text color */
+  text-align: center; /* Centers the text */
+  max-width: 600px; /* Limits the width of the paragraph */
+  margin-left: auto; /* Centers the paragraph horizontally */
+  margin-right: auto;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
