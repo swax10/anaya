@@ -1,5 +1,2 @@
 *.lock
-dataset
-anayaOld
-.e*
-_*
+__pycache__
